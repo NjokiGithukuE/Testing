@@ -106,3 +106,4 @@ grid-template-areas	Specifies how to display columns and rows, using named grid 
 grid-template-columns	Specifies the size of the columns, and how many columns in a grid layout
 grid-template-rows	Specifies the size of the rows in a grid layout
 row-gap	Specifies the gap between the grid rows
+Njoki Githuku
